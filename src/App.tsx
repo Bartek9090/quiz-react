@@ -19,8 +19,8 @@ function App() {
 
   return (
     <div className="bg-gradient-to-br from-black to-gray-900 min-h-screen flex flex-col justify-center">
-      <div className="container mx-auto max-w-screen-lg py-4">
-        <h1 className="text-4xl font-bold text-center text-white mb-8 shadow-lg">
+      <div className="container px-6 mx-auto max-w-screen-lg py-4">
+        <h1 className="text-4xl font-bold text-center text-white mb-8 shadow-xl text-shadow">
           Test Your knowledge
         </h1>
         {renderView}

@@ -4,7 +4,7 @@ import { Field } from "formik";
 export const Input = ({ label, name, ...props }: Props) => {
   return (
     <div className="mb-4">
-      <label htmlFor={name} className="block text-white text-sm font-bold mb-1">
+      <label htmlFor={name} className="block text-white  mb-1">
         {label}
       </label>
       <Field
