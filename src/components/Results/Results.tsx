@@ -13,10 +13,6 @@ export const Results = () => {
     }, 0);
   }, [userAnswers, results]);
 
-  const incorrectAnswersCount = useMemo(() => {
-    return userAnswers.length - correctAnswersCount;
-  }, [userAnswers, correctAnswersCount]);
-
   const totalQuestions = useMemo(() => {
     return results.length;
   }, [results]);
