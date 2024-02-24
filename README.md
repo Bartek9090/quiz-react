@@ -24,8 +24,8 @@ This quiz app allows users to create and take quizzes on various topics. Users c
 * [react-icons](https://react-icons.github.io/react-icons/) version: 4.3.1
 * [React](https://reactjs.org/) version: 17.0.2
 * Tailwind CSS version: 3.0.0
-* 
-* JavaScript
+* formik version 2.4.5
+* vite version 5.1.0
 
 
 ## Features:
