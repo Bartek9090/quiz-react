@@ -11,12 +11,12 @@ This quiz app allows users to create and take quizzes on various topics. Users c
 
 ## Screenshots
 
-![RecipeApp1](![welcomeScreen](https://github.com/Bartek9090/quiz-react/assets/80546803/236fb204-80ce-4c90-9559-c0306372483f)
-)
-![RecipeApp1](![question](https://github.com/Bartek9090/quiz-react/assets/80546803/0c076730-dc0f-4d4e-99ad-855f1c068101)
-)
-![RecipeApp1](![result](https://github.com/Bartek9090/quiz-react/assets/80546803/57a29190-514a-409d-8455-93b63adba153)
-)
+![welcomeScreen](https://github.com/Bartek9090/quiz-react/assets/80546803/236fb204-80ce-4c90-9559-c0306372483f)
+
+![question](https://github.com/Bartek9090/quiz-react/assets/80546803/0c076730-dc0f-4d4e-99ad-855f1c068101)
+
+![result](https://github.com/Bartek9090/quiz-react/assets/80546803/57a29190-514a-409d-8455-93b63adba153)
+
 
 
 
