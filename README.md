@@ -50,9 +50,7 @@ After cloning the repo, go to its root directory and install dependencies
 Once the dependencies are installed, start the application,
 
 $ `npm run dev`</br>
-Then you will have access to application on  http://localhost:5173/
-
-
+Then you will have access to application on  http://localhost:5173/  
 
 ## Help
 If you have any problem with website please do not hesitate text to me.
