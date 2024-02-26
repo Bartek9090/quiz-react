@@ -1,4 +1,4 @@
-# Recipe App
+# Quiz App
 
 -------------------------
 ## Description
