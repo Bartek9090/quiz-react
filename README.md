@@ -3,7 +3,7 @@
 -------------------------
 ## Description
 Quiz app built with React, utilizing Tailwind CSS for styling and useContext hook for state management. This project serves as a learning exercise to practice React concepts, component structure, and styling with Tailwind CSS.
-quiz-react-unaz.vercel.app/
+
 
 
 ## About Project 
